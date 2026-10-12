@@ -4,7 +4,7 @@ I am a Research Scholar at the **Deysarkar Centre of Petroleum and Energy Transi
 
 My research focuses on **fractal geometry and mathematical modelling in geology**, combining computational model development with quantitative image analysis to investigate geometric complexity and structural patterns.
 
-**Research Interests**
+## Research Interests
 
 - Fractal Geometry and Fractal Dimension
 - Mathematical Modelling of Geological Structures
