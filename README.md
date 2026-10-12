@@ -1,8 +1,8 @@
 Hello, I'm a Research Scholar at IIT Kharagpur
 
-I am a Research Scholar at the "Centre for Petroleum and Energy Transition, Indian Institute of Technology (IIT) Kharagpur.
+I am a Research Scholar at the **Deysarkar Centre of Petroleum and Energy Transition, Indian Institute of Technology (IIT) Kharagpur**.
 
-My research focuses on "fractal geometry and mathematical modelling in geology", combining computational model development with quantitative image analysis to investigate geometric complexity and structural patterns.
+My research focuses on **fractal geometry and mathematical modelling in geology**, combining computational model development with quantitative image analysis to investigate geometric complexity and structural patterns.
 
 **Research Interests**
 
@@ -12,7 +12,7 @@ My research focuses on "fractal geometry and mathematical modelling in geology",
 - Image Processing and Quantitative Image Analysis
 - Geometric Complexity and Spatial Patterns
 
- Technical Skills
+##Technical Skills
 
 **Programming & Model Development**
 
@@ -20,7 +20,7 @@ Python — Mathematical modelling, algorithm development, and computational simu
 
 **Scientific Computing & Image Analysis**
 
-- MATLAB — Image processing, numerical analysis, and quantitative characterization of model-generated images
+- MATLAB — Image processing, numerical analysis, and quantitative characterization of model-generated images and natural images.
 
 ## Current Research Focus
 
