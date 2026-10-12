@@ -12,7 +12,7 @@ My research focuses on **fractal geometry and mathematical modelling in geology*
 - Image Processing and Quantitative Image Analysis
 - Geometric Complexity and Spatial Patterns
 
-##Technical Skills
+## Technical Skills
 
 **Programming & Model Development**
 
