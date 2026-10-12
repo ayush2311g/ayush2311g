@@ -1,16 +1,35 @@
-## Hi there 👋
+Hello, I'm a Research Scholar at IIT Kharagpur
 
-<!--
-**ayush2311g/ayush2311g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Research Scholar at the "Centre for Petroleum and Energy Transition, Indian Institute of Technology (IIT) Kharagpur.
 
-Here are some ideas to get you started:
+My research focuses on "fractal geometry and mathematical modelling in geology", combining computational model development with quantitative image analysis to investigate geometric complexity and structural patterns.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Research Interests**
+
+- Fractal Geometry and Fractal Dimension
+- Mathematical Modelling of Geological Structures
+- Computational Geology and Numerical Simulation
+- Image Processing and Quantitative Image Analysis
+- Geometric Complexity and Spatial Patterns
+
+ Technical Skills
+
+**Programming & Model Development**
+
+Python — Mathematical modelling, algorithm development, and computational simulations
+
+**Scientific Computing & Image Analysis**
+
+- MATLAB — Image processing, numerical analysis, and quantitative characterization of model-generated images
+
+## Current Research Focus
+
+Developing mathematical and fractal-based models using Python and analysing their geometric properties through image-processing and computational techniques in MATLAB.
+
+## Research & Projects
+
+I use this GitHub profile to document research-oriented code, computational models, image-analysis workflows, and scientific computing projects related to fractal geometry and geological modelling.
+
+## Connect
+
+Feel free to explore my repositories and research projects. I welcome opportunities for academic discussion and research collaboration.
